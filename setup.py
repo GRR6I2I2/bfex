@@ -3,13 +3,13 @@
 from setuptools import setup
 
 setup(
-    name="pybitflyer",
-    packages=['pybitflyer'],
-    version="0.1.9",
+    name="bfex",
+    packages=['bfex'],
+    version="0.2",
     description="Python wrapper for bitFlyer's REST API.",
-    author="yag_ays",
-    author_email="yanagi.ayase@gmail.com",
-    url="https://github.com/yagays/pybitflyer",
+    author="",
+    author_email="",
+    url="https://github.com/GRR6I2I2/bfex",
     install_requires=['requests'],
     keywords=["bitcoin", "bitflyer", "wrapper", "REST API"],
     classifiers=[
