@@ -18,8 +18,6 @@ Usage
   import pybitflyer
   api = pybitflyer.API(api_key="xxx...", api_secret="yyy...")
 
-If you use HTTP Public API, API Key and API Secret can be omitted.
-
 Example
 -------
 
