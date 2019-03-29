@@ -8,6 +8,7 @@ bfex
 ==========
 
 ``bfex`` is a python wrapper for bitFlyer's REST API.
+ forked from yagays/pybitflyer
 
 Usage
 -----
